@@ -36,10 +36,10 @@ This project showcases critical modern cloud computing skills:
 
     S3 Trigger Configuration:
 
-![S3 Trigger Configuration](Screenshots/4.jpg)
+![S3 Trigger Configuration](Screenshots/4.png)
 
     CloudWatch Proof of Work:
 
-![Cloud Watch Logs](Screenshots/1.jpg)
-![Cloud Watch Logs](Screenshots/2.jpg)
-![Cloud Watch Logs](Screenshots/3.jpg)
+![Cloud Watch Logs](Screenshots/1.png)
+![Cloud Watch Logs](Screenshots/2.png)
+![Cloud Watch Logs](Screenshots/3.png)
