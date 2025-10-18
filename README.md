@@ -16,7 +16,7 @@ The architecture is centered around S3 Event Notifications, ensuring that the La
 
 Architecture Diagram:
 
-![Architecture Diagram](diagram.jpg)
+![Architecture Diagram](Screenshots/diagram.jpg)
 
 ## Key Technical Achievements
 
@@ -36,10 +36,10 @@ This project showcases critical modern cloud computing skills:
 
     S3 Trigger Configuration:
 
-![S3 Trigger Configuration](4.jpg)
+![S3 Trigger Configuration](Screenshots/4.jpg)
 
     CloudWatch Proof of Work:
 
-![Cloud Watch Logs](1.jpg)
-![Cloud Watch Logs](2.jpg)
-![Cloud Watch Logs](3.jpg)
+![Cloud Watch Logs](Screenshots/1.jpg)
+![Cloud Watch Logs](Screenshots/2.jpg)
+![Cloud Watch Logs](Screenshots/3.jpg)
